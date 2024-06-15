@@ -12,8 +12,8 @@ Resolve console.
 
 ## Save this script to:
 
-Windows: %PROGRAMDATA%\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Edit
-macOS: /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Edit
-Linux: /opt/resolve/Fusion/Scripts/Edit
+Windows: `%PROGRAMDATA%\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Edit`
+macOS: `/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Edit`
+Linux: `/opt/resolve/Fusion/Scripts/Edit`
 
 Need more help? Watch the video tutorial.
